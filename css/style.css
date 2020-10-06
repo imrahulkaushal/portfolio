@@ -75,6 +75,7 @@ header nav .branding img{
 
 .hero img{
     width: 480px;
+    height: 100%;
 }
 
 .hero .right{
@@ -701,6 +702,7 @@ footer .copyright{
     .hero .left img {
         margin-right: 1rem;
         width: 320px;
+        height: 100%;
     }
     .hero .right h1{
         font-size: 2.7rem;   
@@ -766,6 +768,7 @@ footer .copyright{
         width: 430px;
         padding-top: 6rem;
         opacity: 0.5;
+        height: 100%;
     }
     .hero .right h1 {
         font-size: 3rem;
@@ -874,6 +877,7 @@ footer .copyright{
         width: 340px;
         padding-top: 6rem;
         opacity: 0.5;
+        height: 100%;
     }
     .hero .right{
         transform: translateY(-194px);
