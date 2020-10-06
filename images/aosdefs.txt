@@ -1,0 +1,4 @@
+data-aos="fade-up"
+data-aos-easing="linear"
+data-aos-offset="430"
+data-aos-duration="1500"
