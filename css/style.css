@@ -190,7 +190,7 @@ section.about .social a img{
 .section-heading + p{
     color: var(--ternary);
     font-family: 'Lato', sans-serif;
-    margin-bottom: 8rem;
+    margin-bottom: 6rem;
     text-align: center;
 }
 
